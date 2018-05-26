@@ -1,0 +1,11 @@
+{
+    "extensionDescription": {
+        "message": "Elimina respuestas y marcadores de correcto / incorrecto de los tests de Moodle",
+        "description": "Descripción de la extensión."
+    },
+
+    "toolbarButtonText": {
+        "message": "Eliminar respuestas de test",
+        "description": "Texto del botón de la barra de herramientas."
+    }
+}
